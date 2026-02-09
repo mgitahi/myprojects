@@ -1,4 +1,3 @@
-Below are links to applications I’ve built and deployed.  
 Each project focuses on simplicity and real-world usefulness.
 
 ## 🚀 Applications
