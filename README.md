@@ -8,5 +8,7 @@ Below are links to apps I’ve built and deployed.
 Live app 🔗: https://mywatchlist.base44.app/  
 🛠 Tech: Base44
   
-## Currently working on:
-Developing a service agent for a small business, focused on providing visitors with answers to product & service-related questions.
+###🛫 Flight Price Tracker
+**What it does:** Monitors flight prices from PVD to RDU, logs price history, and renders an ASCII trend chart in Terminal
+Live app 🔗: https://github.com/mgitahi/flight-tracker
+🛠️ Tech: Python, SerpApi, cron
